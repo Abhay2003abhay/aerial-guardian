@@ -1,1 +1,11 @@
 data/
+yolov8n.pt
+*.pt
+notebooks/runs/
+data/train/
+data/valid/
+yolov8n.pt
+*.pt
+notebooks/runs/
+data/train/
+data/valid/
