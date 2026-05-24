@@ -9,3 +9,4 @@ yolov8n.pt
 notebooks/runs/
 data/train/
 data/valid/
+demo/*.avi
